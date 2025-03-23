@@ -1,0 +1,17 @@
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\bin\Debug\MyDesignButton.exe.config
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\bin\Debug\MyDesignButton.exe
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\bin\Debug\MyDesignButton.pdb
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MainWindow.g.cs
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\App.g.cs
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton_MarkupCompile.cache
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton_MarkupCompile.lref
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MainWindow.baml
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.g.resources
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.Properties.Resources.resources
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.csproj.GenerateResource.cache
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.csproj.CoreCompileInputs.cache
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.exe
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\MyDesignButton.pdb
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\ButtonTemplate.g.cs
+C:\Users\27980\Desktop\Projects\WPF\StudyWPF\MyDesignButton\obj\Debug\ButtonTemplate.baml
